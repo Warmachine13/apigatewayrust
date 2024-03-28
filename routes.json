@@ -1,0 +1,7 @@
+{
+    "routes": [
+        {
+            "host": "http://www.google.com.br"
+        }
+    ]
+}
