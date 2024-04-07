@@ -11,9 +11,10 @@ path-tree = "0.7.6"
 serde = { version = "1.0", features = ["derive"] }
 serde_json = "1.0.115"
 
-hyper = { version = "1", features = ["full"] }
-tokio = { version = "1", features = ["full"] }
 http-body-util = "0.1"
 hyper-util = { version = "0.1", features = ["full"] }
 reqwest = { version = "0.11", features = ["blocking", "json"] }
 regex = "1.5"
+
+hyper = { version = "1", features = ["full"] }
+tokio = { version = "1", features = ["full"] }
